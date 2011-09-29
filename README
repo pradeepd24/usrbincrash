@@ -1,0 +1,11 @@
+To compile and build the executable:
+
+gcc -o usrbincrash usrbincrash.c
+
+
+To execute:
+
+./usrbincrash input_filename
+
+input_filename must conform to the specifications given here.
+http://www.facebook.com/careers/puzzles.php?puzzle_id=2
